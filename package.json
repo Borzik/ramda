@@ -45,8 +45,7 @@
     "type": "git",
     "url": "git://github.com/ramda/ramda.git"
   },
-  "module": "es/index.js",
-  "main": "src/index.js",
+  "main": "dist/ramda.js",
   "unpkg": "dist/ramda.min.js",
   "jsdelivr": "dist/ramda.min.js",
   "files": [
